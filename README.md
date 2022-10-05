@@ -20,7 +20,7 @@
   * slash commands
 
 ## Preview
-![image](https://cdn.discordapp.com/attachments/1027350856238116895/1027354106018398238/sadsaddasaadsas.jpg)
+![image](https://media.discordapp.net/attachments/1027350856238116895/1027359703988183160/sdadsaasddsadsa.jpg)
 ## Install
 
 ```sh
