@@ -42,7 +42,7 @@ py main.py
 👤 **Fawkes#6728**
 
 * Website: Fawkes
-* GitHub: [@efenatuyo](https://github.com/4wkes)
+* GitHub: [@4wkes](https://github.com/4wkes)
 
 ## 🤝 Contributing
 
