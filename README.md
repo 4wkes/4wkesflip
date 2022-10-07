@@ -39,7 +39,7 @@ py main.py
 
 ## Author
 
-👤 **Fawkes#6728**
+👤 **4wkes#0001**
 
 * Website: Fawkes
 * GitHub: [@4wkes](https://github.com/4wkes)
