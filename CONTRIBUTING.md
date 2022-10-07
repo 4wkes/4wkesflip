@@ -123,4 +123,4 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/4wkes/
 
 ## Join The Project Team
 <!-- TODO -->
-Dm me over discord Fawkes#6728
+Dm me over discord 4wkes#0001
